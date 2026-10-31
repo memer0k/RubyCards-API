@@ -31,3 +31,8 @@
 # Ignore key files for decrypting credentials and more.
 /config/*.key
 
+# Настройки Android Studio / IntelliJ
+.idea/
+*.iml
+.gradle/
+local.properties
